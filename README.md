@@ -1,3 +1,5 @@
+To access inflate the unicorn, whack-a-mole and dress-the-clown, clone the repo down. Open the HTML file of the selected project with 'Reveal In Explorer' and click the HTML file. 
+
 # Welcome to the JavaScript Carnival!
 
 ## Summary
